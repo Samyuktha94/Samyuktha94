@@ -19,12 +19,18 @@ I'm driven by a desire for continuous learning to use data science for make a me
 
     **Relevant Coursework:** Linear Algebra, Optimization, Statistical Distribuions, Statistical Inference I, Statistical Inference II, Sampling Theory and its Applications, Mathematical Economics
 
+## ☀️ Skills and Expertise
+**Data Science:** GenAI LLM, Machine Learning, Risk Prediction, Price Forecasting, NLP, Neural Networks
+**Programming:** Python, SQL, R
+**Cloud Computing:** Google Cloud Platform (GCP), Vertex AI, BigQuery
+**Data Engineering:** Data Pipelines, ETL Processes, Data Modeling, Large-Scale Data Manipulation
+**BI Tools:** Alteryx, Qlik, Tableau, Power BI
 
+## 📫 How to reach me:
 
-Bachelor of Technology in Computer Science Engineering, SASTRA University, India (June 2015 – May 2019)
+**Linkedin Profile:** https://www.linkedin.com/in/samyuktha-ashokkumar-73653278/
 
-Relevant Coursework: Big Data Analytics, Python Programming with Web Frameworks, Database Management Systems, Data Warehousing and Data Mining, Cloud Computing, Information Storage and Management
-
+**GitHub Profile:** https://github.com/Samyuktha94
 
 <!--
 **Samyuktha94/Samyuktha94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
