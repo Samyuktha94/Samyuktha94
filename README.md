@@ -21,9 +21,13 @@ I'm driven by a desire for continuous learning to use data science for make a me
 
 ## ☀️ Skills and Expertise
 **Data Science:** GenAI LLM, Machine Learning, Risk Prediction, Price Forecasting, NLP, Neural Networks
+
 **Programming:** Python, SQL, R
+
 **Cloud Computing:** Google Cloud Platform (GCP), Vertex AI, BigQuery
+
 **Data Engineering:** Data Pipelines, ETL Processes, Data Modeling, Large-Scale Data Manipulation
+
 **BI Tools:** Alteryx, Qlik, Tableau, Power BI
 
 ## 📫 How to reach me:
