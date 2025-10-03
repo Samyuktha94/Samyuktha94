@@ -2,12 +2,12 @@
 ## Data Scientist
 ## 👋 About Me
 
-I'm currently working as a Data Scientist Intern for a small business consulting firm and looking for full time opportunities in Data Science and Analytics in the United States. I'm a passionate Data Scientist with over 4.5 years of work experience. I have worked on end-to-end machine learning projects and have worked in varied industries that include both my internships and work experiences in Goldman Sachs, EY, Honeywell and Ford Motor Company. I regularly collaborated with stakeholders to efficiently overcome challenges and ensure project success. My experience spans over revenue forecasting, report automations, NLP topic modeling, data visualization with BI tools like Qlik Sense and Tableau. I've also worked on productionizing Python and SQL by migrating legacy codes from Alteryx and on-prem databases to Google Cloud Platform (GCP), leveraging services such as BigQuery and Vertex AI.
+I'm currently a student at University of California, Davis pursuing my second master's in Business Analytics.I am currently looking for internships and full time opportunities in Data Science and Analytics in the United States. I'm a passionate Data Scientist with over 5 years of work experience. I have worked on end-to-end machine learning projects and have worked in varied industries that include both my internships and work experiences in Goldman Sachs, EY, Honeywell, Ford Motor Company and Consulting. I regularly collaborated with stakeholders to efficiently overcome challenges and ensure project success. My experience spans over revenue forecasting, report automations, NLP topic modeling, data visualization with BI tools like Qlik Sense and Tableau. I've also worked on productionizing Python and SQL by migrating legacy codes from Alteryx and on-prem databases to Google Cloud Platform (GCP), leveraging services such as BigQuery and Vertex AI.
 ## 🥅 Goals
 I'm driven by a desire for continuous learning to use data science for creating a meaningful impact, whether for social good or within any organization. As a quick learner, I’m eager to gain industrial expertise in an environment that fosters growth and skill development. Known for my growth mindset, I approach new challenges with enthusiasm.
 ## 🎓 Education
 
-1. ****Post Graduate Program in Data Science and Business Analytics, University of Texas Austin**, USA** (July 2023 - April 2024)
+1. ****Master of Science in Business Analytics, UC Davis**, USA** (August 2025 - June 2026)
    
    **Relevant Coursework:** Ensemble Techniques, Supervised Learning - Foundations, Python - Foundations, Business Statistics, Supervised Learning - Classification, Model Tuning, Unsupervised Learning
    
